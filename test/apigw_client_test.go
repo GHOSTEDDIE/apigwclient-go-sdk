@@ -1,13 +1,13 @@
 package test
 
 import (
-	"apigwclient-go-sdk/client"
-	"apigwclient-go-sdk/config"
-	"apigwclient-go-sdk/model"
-	"apigwclient-go-sdk/util"
 	"bytes"
 	"crypto/tls"
 	"fmt"
+	"github.com/GHOSTEDDIE/apigwclient-go-sdk/client"
+	"github.com/GHOSTEDDIE/apigwclient-go-sdk/config"
+	"github.com/GHOSTEDDIE/apigwclient-go-sdk/model"
+	"github.com/GHOSTEDDIE/apigwclient-go-sdk/util"
 	"io"
 	"mime/multipart"
 	"net"

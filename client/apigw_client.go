@@ -1,12 +1,12 @@
 package client
 
 import (
-	"apigwclient-go-sdk/config"
-	"apigwclient-go-sdk/model"
-	"apigwclient-go-sdk/util"
 	"bytes"
 	"crypto/tls"
 	"fmt"
+	"github.com/GHOSTEDDIE/apigwclient-go-sdk/config"
+	"github.com/GHOSTEDDIE/apigwclient-go-sdk/model"
+	"github.com/GHOSTEDDIE/apigwclient-go-sdk/util"
 	"io/ioutil"
 	"net"
 	"net/http"

@@ -1,8 +1,8 @@
 package model
 
 import (
-	"apigwclient-go-sdk/util"
 	"fmt"
+	"github.com/GHOSTEDDIE/apigwclient-go-sdk/util"
 	"net/http"
 	"sort"
 	"strings"
